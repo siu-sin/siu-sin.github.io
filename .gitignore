@@ -1,0 +1,21 @@
+# Sphinx documentation build output
+docs/_build/
+build/
+docs/build/
+
+# Sphinx-related temporary files and caches
+.doctrees/
+.fswatch/
+.venv/
+.pytest_cache/
+.tox/
+*.pyc
+*.pyo
+*~
+__pycache__/
+
+# Editor/OS specific files (optional, but often useful)
+docs/.DS_Store
+.DS_Store
+.vscode/
+*.swp
