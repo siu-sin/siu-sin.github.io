@@ -21,6 +21,7 @@ release = '0.1'
 
 extensions = [
         'sphinx.ext.doctest',
+        'myst_parser',
         ]
 
 templates_path = ['_templates']

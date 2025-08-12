@@ -18,3 +18,5 @@ documentation for details.
    contents/cpp
    contents/usage
    z_reference/z_reference
+   z_reference/alice-and-bob
+   z_reference/alphabet
