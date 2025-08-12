@@ -15,4 +15,5 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+   contents/cpp
    z_reference/z_reference
