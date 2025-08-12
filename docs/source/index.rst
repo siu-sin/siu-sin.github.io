@@ -16,4 +16,5 @@ documentation for details.
    :caption: Contents:
 
    contents/cpp
+   contents/usage
    z_reference/z_reference

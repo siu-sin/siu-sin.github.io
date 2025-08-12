@@ -6,6 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
+sys.path.insert(1, "py")
 project = "Siu Sin's story"
 copyright = '2025, Siu Sin'
 author = 'Siu Sin'
@@ -14,7 +18,10 @@ release = '0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+
+extensions = [
+        'sphinx.ext.doctest',
+        ]
 
 templates_path = ['_templates']
 exclude_patterns = []
