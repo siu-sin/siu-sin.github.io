@@ -32,3 +32,7 @@
 | Arthur and Merlin                         | Merlin provides answers, and Arthur asks questions.[29] Merlin has unbounded computational ability (like the wizard Merlin). In interactive proof systems, Merlin claims the truth of a statement, and Arthur (like King Arthur), questions him to verify the claim.                                                        |
 | Paul and Carole                           | Paul asks questions, and Carole provides answers. In the solution of the Twenty Questions problem,[30] Paul (standing in for Paul Erdős) asked questions and Carole (an anagram of "oracle") answered them. Paul and Carole were also used in combinatorial games, in the roles of pusher and chooser.[31]                  |
 | Arthur and Bertha                         | Arthur is the "left", "black", or "vertical" player, and Bertha is the "right", "white", or "horizontal" player in a combinatorial game. Additionally, Arthur, given the same outcome, prefers a game to take the fewest moves, while Bertha prefers a game to take the most moves.[32]                                     |
+
+
+- [ ] Not yet done. H{sub}`2`O.
+- [x] Done. 4{sup}`th` of July.
