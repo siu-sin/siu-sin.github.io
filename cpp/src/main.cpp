@@ -1,10 +1,14 @@
 #include <print>
-import hueta;
-import isu;
+#include "Logger.h"
+#include "CarFactory.h"
+
+using namespace std;
 
 int main() {
+	ToyotaFactory myFactory;
+	auto myCar {myFactory.requestCar()};
+	println("{}", myCar->info());
+	        Logger::setLogFilename("log.out");
 	std::println("Hueta?");
-    xyeta();
-    isu_out();
     return 0;
 }
