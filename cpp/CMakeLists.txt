@@ -8,11 +8,13 @@ set (MY_SRC
 )
 set (MY_LIB
 	lib/hueta/CarFactory.h
+	lib/Origin/TheOrigin.h
 	lib/isu/Logger.cpp
 )
 
 include_directories("${CMAKE_SOURCE_DIR}/lib/hueta"
 	"${CMAKE_SOURCE_DIR}/lib/isu"
+	"${CMAKE_SOURCE_DIR}/lib/Origin"
 )
 
 project(MY_PROJECT)
